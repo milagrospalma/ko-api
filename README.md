@@ -13,6 +13,9 @@ Siendo tantos los datos necesarios para que KO cumpla su objetivo, este formular
 
 # RESEARCH:
 
+### SITUACIÓN ACTUAL
+<http://iliveko.com/teresa/actualizardatos/>
+
 ![KO](src/assets/images/KOINICIO.jpg)
 
 ### “TRAIN FOR HAPPINESS”
@@ -57,29 +60,29 @@ Un deportista tiene motivación, Autoconfianza, control emocional y concentraci�
 13.	¿Cuánto tiempo debería tomarte?
 14.	Duda o consulta
 
-## FORMULARIOS
+## INFORMACIÓN SOBRE FORMULARIOS
 
 ### Aspectos a tomar en cuenta para un formulario exitoso
 
 | ASPECTOS | LOGROS|
 |:------------:|:----:|
-| Tener un objetivo claro |  | 
-| Inspirar confianza |  | 
+| Tener un objetivo claro | ok | 
+| Inspirar confianza | ok | 
 | Tener una correcta estructura | 3 secciones (datos personales, datos extra, datos de emergencia) | 
 | Tener los campos correctos y necesarios | o	Es un formulario bastante grande por lo cual se hace tedioso |
-| Usar labels |  | 
+| Usar labels | ok | 
 | Usar botones (envío y regreso) | Falta botón de regreso | 
 | Validar campos | Los mencionados abajo | 
-| Tener una confirmación de envío |  | 
+| Tener una confirmación de envío | ok | 
 
 **Se debe validar en tiempo real**
 
-1.	E-mail
-2.	Celular
-3.	DNI CE hasta 12
-4.	Número de seguro pendiente
-5.	Teléfono de contacto
-6.	E-mail de contacto
+1.	E-mail (que contenga arroba y .com)
+2.	Celular (9 dígitos)
+3.	DNI CE (hasta 12)
+4.	Número de seguro (pendiente)
+5.	Teléfono de contacto (9 dígitos)
+6.	E-mail de contacto (que contenga arroba y .com)
 
 ### FUENTES
 <>
@@ -115,6 +118,8 @@ a.	Siguiendo una guía de estilos ya reconocida por sus usuarios
 7.	Que al ingresar su nombre como usuario puede que haya un error con el nombre (es importante tener más de una opción de búsqueda para actualización de datos)
 8.	Ver la sede y ser consiente que pueden usar muchas, pero una es su sede principal donde manejaran sus datos.
 9.	Se puede enviar el formulario con un porcentaje de datos, pero solo serán acreedores de la recompensa aquellos que lo completen al 100%.
+10. Verificar si el número de seguro es realmente importante.
+
 
 # IDEACIÓN
 
