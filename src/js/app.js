@@ -17,8 +17,7 @@ $(document).ready(function(){
 			$('#box-2').removeClass('hide');
 
 		} else if(typeClient === 'nuevo') {
-			$('#box-1').addClass('hide');
-			$('#box-3').removeClass('hide');
+			 window.location.href = 'src/views/view3.html';
 
 		} else {
 			alert('por favor elija una opcion >:(')
