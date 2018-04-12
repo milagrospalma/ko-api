@@ -9,11 +9,8 @@
 .intro {
   position: absolute;
   color: #FFF;
-  padding: 2em;
-}
-
-.below {
-  height: 40vh;
+  height: 60vh;
+  text-align: center;
 }
 
 .hide {
@@ -47,7 +44,7 @@
   color: white;
   height: 40vh;
   margin-top: 60vh;
-  padding: 1em;
+  padding: 2em;
   text-align: justify;
   width: 100vw;
 }
@@ -58,9 +55,20 @@
   color: #FFF;
 }
 
+.btn:focus {
+  box-shadow: none;
+}
+
+.dropdown-item, .dropdown-menu {
+  color: #FFF;
+  background-color: black;
+}
+
 .btn-yellow {
   background-color: #D7FF2D;
   border: 1px solid #D7FF2D;
+  width: 5em;
+  margin: 1em;
 }
 
 
