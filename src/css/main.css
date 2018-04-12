@@ -1,31 +1,21 @@
-/* Eliminar una vez se use framework css */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-.above {
-  background-image: url('../assets/images/_MG_3798.jpg');
-  background-position: right;
+.home {
+  background-image: url('../assets/images/ko-1.png');
+  background-position: left;
   background-repeat: no-repeat;
   background-size: 100vh;
   height: 60vh;
+}
+
+.intro {
+  position: absolute;
+  color: #FFF;
+  padding: 2em;
 }
 
 .below {
   height: 40vh;
 }
 
-.black {
-  background-color: black;
-}
-
-.flex-center-center {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
 .hide {
   display: none;
 }
@@ -52,9 +42,43 @@
   color: #000;
 }
 
+.aside {
+  background-color: black;
+  color: white;
+  height: 40vh;
+  margin-top: 60vh;
+  padding: 1em;
+  text-align: justify;
+  width: 100vw;
+}
+
+.dwn-yellow, .dropdown-menu {
+  border: 1px solid #D7FF2D;
+  background-color: transparent;
+  color: #FFF;
+}
+
+.btn-yellow {
+  background-color: #D7FF2D;
+  border: 1px solid #D7FF2D;
+}
+
 
 @media (min-width: 768px) {
-  .above {
+  .home {
+    background-position: center;
     background-size: 100%;
+    height: 100vh;
+  }
+
+  .aside {
+    height: 100vh;
+    margin-top: 0;
+    overflow: scroll;
+    overflow-x: hidden;
+    padding: 3em;
+    position: absolute;
+    right: 0;
+    width: 35vw;
   }
 }
