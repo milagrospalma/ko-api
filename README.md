@@ -195,4 +195,25 @@ a.	Siguiendo una guía de estilos ya reconocida por sus usuarios
 | Prototipo | Link |
 |:---------------:|:----:|
 | 1er Prototipo | <https://marvelapp.com/3cih51a/screen/41085026>|
-| 2do Prototipo | <>|
+| 2do Prototipo | En proceso |
+
+## TESTING
+
+**Usuario 1: Persona nueva**
+
+* "No me queda muy en claro lo de la sede principal"
+* "La opción de lugar de trabajo parece mas la empresa que el distrito"
+
+**Usuario 2: Persona nueva**
+
+* "Que pasa si no quiero tomarme una selfie y quiero poner una foto de i galeria" "No veo la opción"
+* "Yo no sé el número de seguro, es más creo que ni me lo piden cuando voy al seguro"
+
+**Usuario 3: Persona antigua**
+
+* "No entiendo bien el primer filtro, me dice que estoy registrada en la plataforma? Porque no soy nueva pero tampoco estoy registrada en esta plataforma"
+* "Me gustaria que  haya una expicación de porque necesitan mi selfie"
+* "No sé cuales son los datos obligatorios, pareceria que puedo enviarlo sin nada"
+* "No me sé mi número de seguro, yo no lo pondría"
+* "Me gustaria saber como voy a llegar a este formulario, si es por correo es posible que yo ni siquiera lo abra"
+
