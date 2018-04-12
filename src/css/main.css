@@ -20,3 +20,9 @@
 .black {
   background-color: black;
 }
+
+@media (min-width: 768px) {
+  .above {
+    background-size: 100%;
+  }
+}
