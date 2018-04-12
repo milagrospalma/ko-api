@@ -21,6 +21,28 @@
   background-color: black;
 }
 
+.color-white {
+  color: #fff;
+}
+
+.form-control {
+  color: #D7FF2D!important;
+  background-color: #000!important;
+  border: 1px solid #D7FF2D!important;
+}
+
+.button-send {
+  background-color: #000;
+  border: 1px solid #32FFC7!important;
+  color: #fff;
+}
+
+.button-send:hover {
+  background-color: #32FFC7;
+  border: 1px solid #32FFC7!important;
+  color: #000;
+}
+
 @media (min-width: 768px) {
   .above {
     background-size: 100%;
