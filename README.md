@@ -82,7 +82,7 @@ Un deportista tiene motivación, Autoconfianza, control emocional y concentraci�
 6.	E-mail de contacto
 
 ### FUENTES
-<http://www.iliveko.com/historia.html>
+<>
 
 ## PREGUNTAS A RESPONDER
 
@@ -145,7 +145,7 @@ a.	Siguiendo una guía de estilos ya reconocida por sus usuarios
 
 ## AGRUPACION DE DATOS
 
-| Stakeholders | Tipo | Tipo |
+| Datos Personales | Datos de preferencias | Datos de Seguridad |
 |:-------------|:----:|:----:|
 | Nombre | Tu sede principal | Compañía de seguro |
 | Apellido Paterno | Cómo te enteraste de KO | Número de seguro |
@@ -189,5 +189,5 @@ a.	Siguiendo una guía de estilos ya reconocida por sus usuarios
 
 | Prototipo | Link |
 |:---------------:|:----:|
-| 1er Prototipo | <>|
+| 1er Prototipo | <https://marvelapp.com/3cih51a/screen/41085026>|
 | 2do Prototipo | <>|
