@@ -11,10 +11,12 @@ $(document).ready(function(){
 
 	$('#btnClient').on('click', function(event) {
 		if(typeClient === 'registrado') {
-			window.location.href = '../views/vista-3.html';
+			$('#box-1').addClass('hide');
+			$('#box-2').removeClass('hide');
 
 		} else if(typeClient === 'nuevo') {
-			window.location.href = '../views/vista-2.html';
+			$('#box-1').addClass('hide');
+			$('#box-3').removeClass('hide');
 
 		} else {
 			alert('por favor elija una opcion >:(')

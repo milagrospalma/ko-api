@@ -21,6 +21,14 @@
   background-color: black;
 }
 
+.flex-center-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.hide {
+  display: none;
+}
 @media (min-width: 768px) {
   .above {
     background-size: 100%;
