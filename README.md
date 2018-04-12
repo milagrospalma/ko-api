@@ -84,9 +84,6 @@ Un deportista tiene motivación, Autoconfianza, control emocional y concentraci�
 5.	Teléfono de contacto (9 dígitos)
 6.	E-mail de contacto (que contenga arroba y .com)
 
-### FUENTES
-<>
-
 ## PREGUNTAS A RESPONDER
 
 Este debe de ser el momento en el que KO piensa en una estrategia para lograr el mayor número de actualización de datos.
@@ -140,6 +137,7 @@ a.	Siguiendo una guía de estilos ya reconocida por sus usuarios
 * Ocupación:
 * Lugar de trabajo (empresa):
 * Foto:
+
 **INFORMACIÓN PARA EMERGENCIAS**
 * Compañía de seguro:
 * Número de seguro:
@@ -172,15 +170,6 @@ a.	Siguiendo una guía de estilos ya reconocida por sus usuarios
 5.	Envía el formulario
 6.	Recibe confirmación
 7.	Recibe un e-mail (confirma recompensa)
-
-**Conclusiones:**
-
-
-### User Persona:
-
-
-### Identificación de flujo crítico:
-
 
 ## PROTOTYPING:
 
