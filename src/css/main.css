@@ -1,0 +1,22 @@
+/* Eliminar una vez se use framework css */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.above {
+  background-image: url('../assets/images/_MG_3798.jpg');
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: 100vh;
+  height: 60vh;
+}
+
+.below {
+  height: 40vh;
+}
+
+.black {
+  background-color: black;
+}
